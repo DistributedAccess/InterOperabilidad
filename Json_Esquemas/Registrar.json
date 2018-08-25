@@ -1,0 +1,41 @@
+{
+  "Nombre": "ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip",
+  "Uuid":"660e3600-a45b-92f9-a716-446655440023",
+
+  "Usuarios":
+  [
+    {
+      "Usuario":
+      {
+        "Id_Usuario": "2013300615",
+        "Nombre_Usuario": "Josue Tonatiuh Echeverria Vargas",
+        "Tipo_Usuario": "Administrador",
+        "Activo": true
+      },
+      "Horario":
+      [
+        {
+          "Id_Horario": "101",
+          "Turno": "Matutino",
+          "Inicio": "07:00",
+          "Fin": "08:30",
+          "Dia": "Lunes"
+        },
+        {
+          "Id_Horario": "305",
+          "Turno": "Mixto",
+          "Inicio": "13:00",
+          "Fin": "15:30",
+          "Dia": "MIercoles"
+        },
+        {
+          "Id_Horario": "510",
+          "Turno": "Vespertino",
+          "Inicio": "19:30",
+          "Fin": "22:00",
+          "Dia": "Viernes"
+        }
+      ]
+    }
+  ]
+}

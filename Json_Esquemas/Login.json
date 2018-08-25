@@ -1,0 +1,10 @@
+{
+  "User": "parzival",
+  "Password": "2010020726Ev",
+  "Credeciales_SFTP":
+  {
+    "Dominio_SFTP": "127.0.0.1",
+    "User_SFTP": "parzival",
+    "Pass_SFTP": "2010020726_Sftp"
+  }
+}
