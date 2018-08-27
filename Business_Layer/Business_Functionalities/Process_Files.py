@@ -40,6 +40,10 @@ class Process_Files:
             return False
 
     @staticmethod
+    def Crear_Directorios():
+
+
+    @staticmethod
     def Leer_Config():
         parser = configparser.ConfigParser()
         parser.read('/home/parzival/Documents/Tesis/API/InterOperabilidad_API/config.ini')

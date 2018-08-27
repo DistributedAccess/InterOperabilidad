@@ -1,0 +1,53 @@
+2018-08-26 15:58:21,417 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:01:46,587 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:04:31,499 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:05:37,670 - sLogger - ERROR - No se ha podido crear la Base de datos: Interoperabilidad
+2018-08-26 16:10:19,269 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:10:48,585 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:23:49,599 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:27:54,345 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:29:44,660 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:30:09,050 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 16:30:09,050 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:37:55,652 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 16:37:55,653 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:40:25,682 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 16:40:25,683 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:40:25,683 - sLogger - DEBUG - Se ha cerrado la conexion a la Base de Datos
+2018-08-26 16:46:32,637 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:47:35,719 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:48:30,593 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:49:11,114 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 16:49:11,117 - sLogger - ERROR - No se ha podido conectar al motor de base de datos 
+2018-08-26 16:49:47,932 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 16:49:54,930 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:50:41,029 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 16:50:44,605 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 16:50:44,606 - sLogger - DEBUG - Se ha cerrado la conexion al motor de base de datos
+2018-08-26 17:03:42,060 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 17:03:45,410 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 17:03:58,321 - sLogger - ERROR - No se ha podido crear la Base de datos: Interoperabilidad
+2018-08-26 17:05:03,882 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 17:05:06,981 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 17:05:35,286 - sLogger - ERROR - No se ha podido crear la Tabla: Usuario
+2018-08-26 17:06:02,972 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 17:13:06,648 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 17:13:23,174 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 17:13:36,123 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-26 17:14:16,637 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 17:14:19,793 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-26 17:14:22,980 - sLogger - DEBUG - Se ha creado la Tabla: Usuario en la base de datos InterOperabilidad
+2018-08-26 17:14:22,992 - sLogger - DEBUG - Se ha creado la Tabla: Usuario en la base de datos InterOperabilidad
+2018-08-26 17:16:45,070 - sLogger - DEBUG - Se ha cerrado la conexion al motor de base de datos
+2018-08-26 17:16:54,891 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 17:17:05,894 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 17:17:10,267 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-26 17:17:13,728 - sLogger - DEBUG - Se ha creado la Tabla: Usuario en la base de datos InterOperabilidad
+2018-08-26 17:35:46,257 - sLogger - DEBUG - Se ha establecido la conexion al motor de base de datos
+2018-08-26 17:36:06,142 - sLogger - DEBUG - Se ha creado la Base de Datos: Interoperabilidad
+2018-08-26 17:36:11,121 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-26 17:36:33,695 - sLogger - DEBUG - Se ha creado la Tabla: Usuario en la base de datos InterOperabilidad
+2018-08-26 17:36:44,065 - sLogger - DEBUG - Se ha creado la Tabla: Horario en la base de datos InterOperabilidad
+2018-08-26 17:36:55,512 - sLogger - DEBUG - Se ha creado la Tabla: Bitacora en la base de datos InterOperabilidad
+2018-08-26 17:37:06,804 - sLogger - DEBUG - Se ha creado la Tabla: Usuario_Horario en la base de datos InterOperabilidad
+2018-08-26 17:37:34,576 - sLogger - DEBUG - Se ha cerrado la conexion al motor de base de datos
