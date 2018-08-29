@@ -51,3 +51,23 @@
 2018-08-26 17:36:55,512 - sLogger - DEBUG - Se ha creado la Tabla: Bitacora en la base de datos InterOperabilidad
 2018-08-26 17:37:06,804 - sLogger - DEBUG - Se ha creado la Tabla: Usuario_Horario en la base de datos InterOperabilidad
 2018-08-26 17:37:34,576 - sLogger - DEBUG - Se ha cerrado la conexion al motor de base de datos
+2018-08-28 23:01:06,753 - sLogger - DEBUG - Se ha establecido a la base de datos: config['MySql']['DataBase']
+2018-08-28 23:01:07,252 - sLogger - ERROR - No se ha podido conectar a la de base de datos: config['MySql']['DataBase']
+2018-08-28 23:02:53,702 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:02:53,702 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-28 23:04:34,346 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:04:34,346 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-28 23:06:28,554 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:06:28,555 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-28 23:07:30,289 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:07:30,289 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-28 23:10:28,690 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:10:28,897 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-28 23:11:26,628 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:11:26,629 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-28 23:12:40,325 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:13:33,463 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:14:52,313 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:14:52,314 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-28 23:16:36,225 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-28 23:16:36,225 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
