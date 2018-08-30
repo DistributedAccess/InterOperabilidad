@@ -27,19 +27,21 @@ class Interop_CRUDS:
     @staticmethod
     def Actualizar(dto, condicion, parametro):
         set = Query_Update(dto)
-        query = "UPDATE " + type(dto).__name__ + " SET " + set + " WHERE " + condicion + "= " + "'" + parametro + "'"
+        query = "UPDATE " + type(dto).__name__ + " SET " + set + " WHERE " + condicion + " = " + "'" + parametro + "'"
         if(Execute_Query(query)):
-            logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)
+            logg.debug("Se ha actualizado un registro a la tabla: " + type(dto).__name__)
         else:
             logg.error("No se ha registrado un registro a la tabla: " + type(dto).__name__)
 
     @staticmethod
     def Consultar(dto):
         query = "SELECT * FROM " + type(dto).__name__
-        if(Execute_Query_Consultar(query)):
+        consulta = Execute_Query_Consultar(query)
+        if(consulta != None):
             logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)
         else:
             logg.error("No se ha registrado un registro a la tabla: " + type(dto).__name__)
+        return  consulta
 
 def Execute_Query(query):
     db      = None
@@ -54,6 +56,7 @@ def Execute_Query(query):
         print(query)
         logg.debug("Se ha establecido a la base de datos: " + config['MySql']['DataBase'])
         cursor.execute(query)
+        db.commit()
         cursor.close()
         return True
 
@@ -75,11 +78,12 @@ def Execute_Query_Consultar(query):
         cursor = db.cursor()
         logg.debug("Se ha establecido a la base de datos: " + config['MySql']['DataBase'])
         cursor.execute(query)
-        rows = self.cursor.fetchall()
+        rows = cursor.fetchall()
         cursor.close()
         return rows
 
     except Exception as e:
+        print(e)
         cursor.close()
         logg.error("No se ha podido conectar a la de base de datos: " + config['MySql']['DataBase'])
         return None
@@ -121,7 +125,23 @@ def Query_Update(dto):
     c = 0
     for lst in lista:
         c += 1
-        set += lst + " = '" + getattr(dto, lst) + "', "
+
+        if(getattr(dto, lst) == ""):
+            set += lst + " = " + "NULL, "
+        elif(getattr(dto, lst) == "True"):
+            set += lst + " = " + "TRUE, "
+        elif(getattr(dto, lst) == "False"):
+            set += lst + " = " + "FALSE, "
+        elif(getattr(dto, lst).isdigit()):
+            set += lst + " = " + getattr(dto, lst) + ", "
+        else:
+            set += lst + " = '" + getattr(dto, lst)
+
+            if(c != l):
+                set += "', "
+            else:
+                set += "'"
+
 
     return set
 

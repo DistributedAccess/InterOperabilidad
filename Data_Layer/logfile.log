@@ -71,3 +71,61 @@
 2018-08-28 23:14:52,314 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
 2018-08-28 23:16:36,225 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
 2018-08-28 23:16:36,225 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:16:13,776 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:16:13,777 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:20:04,272 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:20:04,471 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:23:17,002 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:23:17,121 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:23:25,477 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:23:25,544 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:24:27,718 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:24:27,719 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:24:27,720 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:27:16,020 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:27:16,021 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:27:16,021 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:27:38,866 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:27:38,867 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:27:38,868 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:28:22,565 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:28:22,565 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:28:22,566 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:28:28,704 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:28:28,705 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:30:31,440 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:30:31,441 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:31:22,631 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:31:22,710 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:31:26,481 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:31:26,482 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:34:06,398 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:34:06,424 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:34:06,424 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:34:46,547 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:34:46,548 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:34:46,548 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:36:02,004 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:36:02,005 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:37:32,473 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:37:32,474 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:37:32,474 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:40:39,979 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:40:39,980 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:40:39,980 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:42:16,497 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:42:16,648 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:42:16,648 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:46:59,348 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:46:59,348 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:46:59,349 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:47:57,181 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:47:57,182 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:47:57,182 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:48:50,440 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:48:50,441 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-08-29 21:48:50,441 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:49:21,683 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:49:21,757 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-08-29 21:51:25,602 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-08-29 21:51:25,657 - sLogger - DEBUG - Se ha actualizado un registro a la tabla: Usuario
