@@ -17,22 +17,22 @@
         {
           "Id_Horario": "101",
           "Turno": "Matutino",
-          "Inicio": "07:00",
-          "Fin": "08:30",
+          "Inicio": "07:00:00",
+          "Fin": "08:30:00",
           "Dia": "Lunes"
         },
         {
           "Id_Horario": "305",
           "Turno": "Mixto",
-          "Inicio": "13:00",
-          "Fin": "15:30",
+          "Inicio": "13:00:00",
+          "Fin": "15:30:00",
           "Dia": "MIercoles"
         },
         {
           "Id_Horario": "510",
           "Turno": "Vespertino",
-          "Inicio": "19:30",
-          "Fin": "22:00",
+          "Inicio": "19:30:00",
+          "Fin": "22:00:00",
           "Dia": "Viernes"
         }
       ]

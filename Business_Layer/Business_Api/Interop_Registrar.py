@@ -4,6 +4,7 @@ sys.path.append("..")
 from Infrastructure.Config import Config
 from Infrastructure.Logging import Logging
 from DTO.usuario import Usuario
+from DTO.usuario import Horario
 import json
 
 class Interop_Registrar:
@@ -19,17 +20,18 @@ class Interop_Registrar:
 
 
     @staticmethod
-    def DoSomething():
-        pass
+    def Registrar_Usuarios(json):
+        Registrar_Usuarios_con_Horarios(json)
 
-def Registrar_Usuarios(users):
+
+def Registrar_Usuarios_con_Horarios(users):
 
     for usr in users['Usuarios']:
         Registrar_Usuario(usr)
 
+
 def Registrar_Usuario(usuario):
 
-    #usr = Usuario("2010020726","Alice","Vargas","Echeverria","Administrador","True")
     usr = Usuario(usuario['Id_Usuario'],
                   usuario['Nombre'],
                   usuario['Apellido_M'],
@@ -38,10 +40,30 @@ def Registrar_Usuario(usuario):
                   usuario['Activo'])
 
     Interop_CRUDS.Registrar(usr)
+    Registrar_Horarios(usuario)
+
+def Registrar_Horarios(usuario):
 
     for horario in usuario['Horario']
         Registrar_Horario(horario)
 
+    for horario in usuario['Horario']
+        usr_hor = Usuario_Horario(horario['Id_Horario']
+                                  usuario['Id_Usuario'])
+        Registrar_Usuario_Horario(usr_hor)
+
 
 def Registrar_Horario(horario):
-    pass
+    hor = Horario(horario['Id_Horario'],
+                  horario['Turno'],
+                  horario['Inicio'],
+                  horario['Fin'],
+                  horario['Dia'])
+
+    Interop_CRUDS.Registrar(hor)
+
+def Registrar_Usuario_Horario(usr_h):
+    usr_hor = Usuario_Horario(usr_h['Id_Horario'],
+                              usr_h['Id_Usuario'])
+
+    Interop_CRUDS.Registrar(usr_hor)

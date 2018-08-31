@@ -34,7 +34,17 @@ class Interop_CRUDS:
             logg.error("No se ha registrado un registro a la tabla: " + type(dto).__name__)
 
     @staticmethod
-    def Consultar(dto):
+    def Consultar_Uno(dto, columna, condicion):
+        query = "SELECT * FROM " + type(dto).__name__ + " WHERE " + columna +" = " + condicion
+        consulta = Execute_Query_Consultar(query)
+        if(consulta != None):
+            logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)
+        else:
+            logg.error("No se ha registrado un registro a la tabla: " + type(dto).__name__)
+        return  consulta
+
+    @staticmethod
+    def Consultar_Todo(dto):
         query = "SELECT * FROM " + type(dto).__name__
         consulta = Execute_Query_Consultar(query)
         if(consulta != None):

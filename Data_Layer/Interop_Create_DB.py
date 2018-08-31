@@ -34,8 +34,8 @@ import MySQLdb
       +------------+-------------+------+-----+---------+-------+
       | Id_Horario | int(10)     | NO   | PRI | NULL    |       |
       | Turno      | varchar(25) | NO   |     | NULL    |       |
-      | Inicio     | datetime    | NO   |     | NULL    |       |
-      | Fin        | datetime    | NO   |     | NULL    |       |
+      | Inicio     | time        | NO   |     | NULL    |       |
+      | Fin        | time        | NO   |     | NULL    |       |
       | Dia        | varchar(25) | NO   |     | NULL    |       |
       +------------+-------------+------+-----+---------+-------+
       Bitacora
@@ -44,7 +44,7 @@ import MySQLdb
       +--------------+-------------+------+-----+---------+-------+
       | Id_Bitacora  | int(10)     | NO   |     | NULL    |       |
       | Id_Usuario   | int(10)     | NO   |     | NULL    |       |
-      | Hora_Entrada | datetime    | NO   |     | NULL    |       |
+      | Hora_Entrada | time        | NO   |     | NULL    |       |
       | Turno        | varchar(25) | NO   |     | NULL    |       |
       | Asistencia   | bit         | NO   |     | NULL    |       |
       +--------------+-------------+------+-----+---------+-------+
@@ -137,8 +137,8 @@ class Interop_Create_DB:
             QUERY = ("""CREATE TABLE IF NOT EXISTS Horario (
                     Id_Horario int(10) NOT NULL,
                     Turno varchar(25) NOT NULL,
-                    Inicio datetime NOT NULL,
-                    Fin datetime NOT NULL,
+                    Inicio time NOT NULL,
+                    Fin time NOT NULL,
                     Dia varchar(25) NOT NULL,
                     PRIMARY KEY (Id_Horario)
                     )""")
@@ -174,7 +174,7 @@ class Interop_Create_DB:
 
         try:
             QUERY = ("""CREATE TABLE IF NOT EXISTS Usuario_Horario (
-                    Id_UsrHora int(10) NOT NULL,
+                    Id_UsrHora int(10) NOT NULL AUTO_INCREMENT,
                     Id_Horario int(10) NOT NULL,
                     Id_Usuario int(10) NOT NULL,
                     PRIMARY KEY (Id_UsrHora),
