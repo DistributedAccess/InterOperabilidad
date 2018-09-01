@@ -56,10 +56,18 @@ import MySQLdb
       | Id_Horario | int(10)     | NO   | FOR | NULL    |       |
       | Id_Usuario | int(10)     | NO   | FOR | NULL    |       |
       +------------+-------------+------+-----+---------+-------+
+      Usuario_Servidor
+      +------------+-------------+------+-----+---------+-------+
+      | Field      | Type        | Null | Key | Default | Extra |
+      +------------+-------------+------+-----+---------+-------+
+      | Id_UsrServ | int(10)     | NO   | PRI | NULL    |       |
+      | User_Name  | varchar(50) | NO   |     | NULL    |       |
+      | User_Pass  | varchar(260)| NO   |     | NULL    |       |
+      +------------+-------------+------+-----+---------+-------+
 """
 
 class Interop_Create_DB:
-
+350
     __user      = None
     __password  = None
     __host      = None
@@ -87,7 +95,7 @@ class Interop_Create_DB:
 
     def Create_DataBase(self):
         #   Este metodo crea la Base de Datos InterOperabilidad.
-        try:
+        try:Usuario_Servidor
             sql = "CREATE DATABASE IF NOT EXISTS InterOperabilidad"
             self.__cursor.execute(sql)
             self.__logg.debug("Se ha creado la Base de Datos: Interoperabilidad")
@@ -96,7 +104,7 @@ class Interop_Create_DB:
             self.__logg.error("No se ha podido crear la Base de datos: Interoperabilidad")
 
     def Conectar_Base(self):
-        #   Este metodo se conecta a la base de Datos Interoperabilidad
+        #   Este metodo se conecta a la base de Datos Interope350rabilidad
         try:
             self.__db = MySQLdb.connect(user = self.__user, passwd = self.__password,
                                         host = '127.0.0.1',
@@ -135,7 +143,7 @@ class Interop_Create_DB:
 
         try:
             QUERY = ("""CREATE TABLE IF NOT EXISTS Horario (
-                    Id_Horario int(10) NOT NULL,
+                    Id_HorariUsuario_Servidoro int(10) NOT NULL,
                     Turno varchar(25) NOT NULL,
                     Inicio time NOT NULL,
                     Fin time NOT NULL,
@@ -147,7 +155,9 @@ class Interop_Create_DB:
             self.__logg.debug("Se ha creado la Tabla: Horario en la base de datos InterOperabilidad")
 
         except  MySQLdb.DatabaseError:
-            self.__logg.error("No se ha podido crear la Tabla: Horario")
+            self.__logg.errId_UsrServ | int(10)     | NO   | PRI | NULL    |       |
+      | User_Name  | varchar(50) | NO   |     | NULL    |       |
+      | User_Pass  | varchar(MAX)| NO   |     | NULL or("No se ha podido crear la Tabla: Horario")
 
     def Create_Bitacora(self):
         #   Este metodo crea la tabla: Bitacora
@@ -187,6 +197,25 @@ class Interop_Create_DB:
 
         except  MySQLdb.DatabaseError:
             self.__logg.error("No se ha podido crear la Tabla: Usuario_Horario")
+
+
+    def Create_Usuario_Servidor(self):
+        #   Este metodo crea la tabla: Usuario_Servidor
+        #   de la Base de Datos InterOperabilidad
+
+        try:
+            QUERY = ("""CREATE TABLE IF NOT EXISTS Usuario_Servidor (
+                    Id_UsrServ int(10) NOT NULL AUTO_INCREMENT,
+                    User_Name varchar(50) NOT NULL,
+                    User_Pass varchar(260) NOT NULL,
+                    PRIMARY KEY (Id_UsrServ)
+                    )""")
+
+            self.__cursor.execute(QUERY)
+            self.__logg.debug("Se ha creado la Tabla: Usuario_Servidor en la base de datos InterOperabilidad")
+
+        except  MySQLdb.DatabaseError:
+            self.__logg.error("No se ha podido crear la Tabla: Usuario_Servidor")
 
     def Cerrar_Conexion(self):
         #   Este metodo cierra la conexion al motor de base de datos

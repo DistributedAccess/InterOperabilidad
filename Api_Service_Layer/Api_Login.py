@@ -11,12 +11,7 @@ def foo():
         abort(400)
 
     input = json.dumps(request.json)
-    print(type(input))
     data = json.loads(input)
-    print(type(data))
-
-    usersJson = data["Usuarios"]
-    print(type(usersJson))
 
     return json.dumps(request.json)
 

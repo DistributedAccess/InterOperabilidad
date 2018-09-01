@@ -1,4 +1,4 @@
-from DTO import *
+from Data_Layer.DTO import *
 import sys
 sys.path.append("..")
 from Infrastructure.Config import Config
