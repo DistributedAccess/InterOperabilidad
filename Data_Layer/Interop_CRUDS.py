@@ -1,6 +1,6 @@
-from Data_Layer.DTO import *
-import sys
-sys.path.append("..")
+#from DTO import *
+#import sys
+#sys.path.append("..")
 from Infrastructure.Config import Config
 from Infrastructure.Logging import Logging
 import MySQLdb
@@ -31,26 +31,26 @@ class Interop_CRUDS:
         if(Execute_Query(query)):
             logg.debug("Se ha actualizado un registro a la tabla: " + type(dto).__name__)
         else:
-            logg.error("No se ha registrado un registro a la tabla: " + type(dto).__name__)
+            logg.debug("No se ha registrado un registro a la tabla: " + type(dto).__name__)
 
     @staticmethod
     def Consultar_Uno(dto, columna, condicion):
-        query = "SELECT * FROM " + type(dto).__name__ + " WHERE " + columna +" = " + condicion
+        query = "SELECT * FROM " + type(dto).__name__ + " WHERE " + columna +" = '" + condicion + "'"
         consulta = Execute_Query_Consultar(query)
-        if(consulta != None):
+        if(len(consulta) != 0):
             logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)
         else:
-            logg.error("No se ha registrado un registro a la tabla: " + type(dto).__name__)
+            logg.debug("No se ha registrado un registro a la tabla: " + type(dto).__name__)
         return  consulta
 
     @staticmethod
     def Consultar_Todo(dto):
         query = "SELECT * FROM " + type(dto).__name__
         consulta = Execute_Query_Consultar(query)
-        if(consulta != None):
+        if(len(consulta) != 0):
             logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)
         else:
-            logg.error("No se ha registrado un registro a la tabla: " + type(dto).__name__)
+            logg.debug("No se ha registrado un registro a la tabla: " + type(dto).__name__)
         return  consulta
 
 def Execute_Query(query):
@@ -151,7 +151,6 @@ def Query_Update(dto):
                 set += "', "
             else:
                 set += "'"
-
 
     return set
 

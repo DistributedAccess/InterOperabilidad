@@ -2,16 +2,84 @@ import sys
 sys.path.append("../..")
 from Infrastructure.Config import Config
 from Infrastructure.Logging import Logging
+from Infrastructure.Auth_JWT import Auth_JWT
 from Data_Layer.DTO.Usuario_Servidor import Usuario_Servidor
 from Data_Layer.Interop_CRUDS import Interop_CRUDS
+import datetime
 
 import hashlib
 import json
 import jwt
 
 class Interop_Login:
+    @staticmethod
+    def Interop_Login(jsn):
+        valid =  Validar(jsn)
+        if(valid == None):
+            usr = jsn['u']
+            pas = jsn['p']
+            if(Autenticar(usr,pas)):
+                tkn = Generar_Token(usr,pas)
+                return Respuesta(tkn[0], str(tkn[1]))
+            else:
+                data = {}
+                data['CodigoError'] = 402
+                data['MensajeError'] = "El usuario o la contrasena no coinciden"
+                data['timeStamp'] = str(datetime.datetime.now())
+                return json.dumps(data)
+        else:
+            return valid
 
-    def Autenticar(usr, pas):
-        hash = hashlib.sha256(str.encode(pas))
-        print(hash.hexdigest())
-        consulta = Interop_CRUDS.Consultar_Uno(Usuario_Servidor(usr,pas), 'User_Name', usr)
+def Validar(jsn):
+    data = {}
+    if 'u' not in jsn:
+        data['CodigoError'] = 400
+        data['MensajeError'] = "Formato json no valido"
+        data['timeStamp'] = str(datetime.datetime.now())
+        return json.dumps(data)
+    if 'p' not in jsn:
+        data['CodigoError'] = 400
+        data['MensajeError'] = "Formato json no valido"
+        data['timeStamp'] = str(datetime.datetime.now())
+        return json.dumps(data)
+    if (jsn['u'] == '' or jsn['p'] == ''):
+        data['CodigoError'] = 404
+        data['MensajeError'] = "Falta un parametro de entrada"
+        data['timeStamp'] = str(datetime.datetime.now())
+        return json.dumps(data)
+
+
+def Autenticar(usr, pas):
+    """     Consulta el usuario en la base de datos, en caso de existir hashea el
+        pas y lo compara con la consulta en caso de ser igual retornara un true.
+        def Autenticar(usr, pas):
+    """
+    flag = True
+
+    hash  = hashlib.sha256(str.encode(pas))
+    consulta = Interop_CRUDS.Consultar_Uno(Usuario_Servidor(usr,pas), 'User_Name', usr)
+
+    if(len(consulta) != 0):
+        if(hash.hexdigest() == consulta[0][2]):
+            flag = True
+        else:
+            flag = False
+    else:
+        flag = False
+
+    return flag
+
+def Generar_Token(usr, pas):
+    token = Auth_JWT.Crear_Token(usr, pas)
+    time  = datetime.datetime.now()
+    return  token, time
+
+
+def Respuesta(token, timestamp):
+    """     Genera un json que contiene el token y el timestamp """
+
+    data = {}
+    data['jwtToken'] = token
+    data['passwordExpiration'] = timestamp
+
+    return json.dumps(data)

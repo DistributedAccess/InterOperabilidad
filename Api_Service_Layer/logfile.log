@@ -1,0 +1,223 @@
+2018-09-01 16:49:59,865 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:49:59,916 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:49:59,917 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:50:59,062 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:50:59,063 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:50:59,063 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:52:32,699 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:52:32,700 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:52:32,700 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:53:43,825 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:53:43,826 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:53:43,826 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:53:56,274 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:53:56,275 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:53:56,275 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:53:58,289 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:53:58,290 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:53:58,290 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:55:48,696 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:55:48,697 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:55:48,697 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:57:06,942 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:57:06,943 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:57:06,943 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:57:38,624 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:57:38,625 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-01 16:57:38,625 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 16:59:17,885 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 16:59:17,910 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:03:01,348 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:03:01,349 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:03:23,974 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:03:23,975 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:04:22,664 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:04:22,665 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:05:45,750 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:05:45,752 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:05:56,756 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:05:56,757 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:06:14,213 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:06:14,215 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:08:21,412 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:08:21,412 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:47:07,688 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:47:07,689 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:47:59,970 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:47:59,972 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:49:29,153 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:49:29,154 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:50:42,258 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:50:42,259 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:50:47,333 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:50:47,335 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:50:53,158 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:50:53,159 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:51:09,883 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:51:09,884 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:51:22,864 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:51:22,866 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:52:28,847 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:52:28,848 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:52:45,308 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:52:45,309 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:53:17,993 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:53:17,994 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:53:37,338 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:53:37,340 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:54:45,085 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:54:45,086 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:55:19,108 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:55:19,109 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:55:37,312 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:55:37,313 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:56:12,792 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:56:12,793 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:56:47,198 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:56:47,199 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:57:22,611 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:57:22,612 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:58:20,134 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:58:20,136 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:59:03,341 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:59:03,342 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:59:37,281 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:59:37,282 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 17:59:46,764 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 17:59:46,765 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:00:05,009 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:00:05,010 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:00:22,025 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:00:22,026 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:00:56,805 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:00:56,806 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:01:18,307 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:01:18,310 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:06:00,276 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:06:00,277 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:06:48,275 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:06:48,276 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:06:51,187 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:06:51,189 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:06:52,685 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:06:52,687 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:06:55,744 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:06:55,745 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:06:57,025 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:06:57,026 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:06:58,358 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:06:58,359 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:07:01,078 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:07:01,079 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:07:02,436 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:07:02,437 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:09:54,194 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:09:54,195 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:10:00,055 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:10:00,056 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:10:04,638 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:10:04,639 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:10:09,494 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:10:09,495 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:10:14,031 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:10:14,032 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:11:10,123 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:11:10,126 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:11:37,528 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:11:37,529 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:12:27,902 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:12:27,903 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:12:31,852 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:12:31,853 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:13:24,373 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:13:24,375 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:14:01,135 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:14:01,136 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:14:26,478 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:14:26,479 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:16:11,137 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:16:11,138 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:16:58,365 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:16:58,366 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:17:52,299 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:17:52,301 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:18:59,775 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:18:59,776 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:19:43,627 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:19:43,627 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:20:25,632 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:20:25,633 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:20:59,921 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:20:59,922 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:21:31,509 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:21:31,510 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:21:39,534 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:21:39,535 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:21:45,602 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:21:45,603 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:23:41,838 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:23:41,839 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:23:49,158 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:23:49,159 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:23:52,772 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:23:52,773 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:23:55,836 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:23:55,837 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:25:07,009 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:25:07,010 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:25:09,839 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:25:09,840 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:25:12,380 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:25:12,381 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:25:14,346 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:25:14,347 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:26:53,795 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:26:53,797 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:27:32,774 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:27:32,776 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:27:47,507 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:27:47,508 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:28:03,427 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:28:03,428 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:28:54,811 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:28:54,812 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:32:18,779 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:32:18,780 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:33:53,205 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:33:53,207 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:33:57,089 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:33:57,090 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:34:12,628 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:34:12,629 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:43:01,554 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:43:01,555 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 18:43:11,250 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 18:43:11,251 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:06:56,534 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:06:56,571 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:20:42,005 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:20:42,006 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:20:45,462 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:20:45,463 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:21:00,792 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:21:00,795 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:21:25,451 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:21:25,452 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:21:48,644 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:21:48,645 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:23:18,043 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:23:18,044 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:24:33,138 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:24:33,139 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:24:37,136 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:24:37,137 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:25:13,218 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:25:13,219 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:25:31,221 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:25:31,222 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:26:25,085 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:26:25,087 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:26:32,981 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:26:32,982 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-01 20:26:37,099 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-01 20:26:37,100 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor

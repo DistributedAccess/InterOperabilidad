@@ -2,9 +2,11 @@ import jwt
 
 class Auth_JWT:
 
-    def Crear_Token(usr, pass):
+    @staticmethod
+    def Crear_Token(usr, pas):
+        key = "I will always love you"
         token = jwt.encode({'some': 'payload'}, key, algorithm='HS256')
-        return token
+        return token.decode(encoding="utf-8")
 
     #DEBE CONVERTIRSE EN UN DECORADOR
     def Validar_Token(tkin):
