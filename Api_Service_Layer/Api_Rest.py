@@ -3,6 +3,8 @@ sys.path.append("..")
 from flask import Flask, abort, request
 from argparse import Namespace
 from Business_Layer.Business_Api.Interop_Login import *
+from Business_Layer.Business_Api.Interop_Registrar import *
+from Infrastructure.Auth_JWT import Auth_JWT
 import json
 
 app = Flask(__name__)
@@ -11,15 +13,21 @@ app = Flask(__name__)
 def Login():
     if not request.json:
         abort(400)
-
     return Interop_Login.Interop_Login(request.json)
 
 @app.route('/Interoperabilidad/Registrar', methods=['POST'])
-def fooe():
+def Registrar():
     if not request.json:
         abort(400)
+    token = request.headers.get('Authorization')
+    token = token.replace('Bearer ','')
 
-    return a
+    #@Auth_JWT.Validar_Token(token)
+    Interop_Registrar.Registrar_Usuarios(request.json)
+
+
+
+    return "Holi amor your token is: " + token + " isn't it???"
 
 @app.route('/Interoperabilidad/Consultar', methods=['GET'])
 def Id_Usuario():

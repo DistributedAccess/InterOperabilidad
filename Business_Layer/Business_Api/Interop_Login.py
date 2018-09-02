@@ -1,15 +1,16 @@
 import sys
 sys.path.append("../..")
-from Infrastructure.Config import Config
-from Infrastructure.Logging import Logging
-from Infrastructure.Auth_JWT import Auth_JWT
 from Data_Layer.DTO.Usuario_Servidor import Usuario_Servidor
 from Data_Layer.Interop_CRUDS import Interop_CRUDS
+from Infrastructure.Auth_JWT import Auth_JWT
+from Infrastructure.Logging import Logging
 import datetime
 
 import hashlib
 import json
 import jwt
+
+logg    = Logging()
 
 class Interop_Login:
     @staticmethod
@@ -23,7 +24,7 @@ class Interop_Login:
                 return Respuesta(tkn[0], str(tkn[1]))
             else:
                 data = {}
-                data['CodigoError'] = 402
+                data['CodigoError'] = 401
                 data['MensajeError'] = "El usuario o la contrasena no coinciden"
                 data['timeStamp'] = str(datetime.datetime.now())
                 return json.dumps(data)
@@ -43,7 +44,7 @@ def Validar(jsn):
         data['timeStamp'] = str(datetime.datetime.now())
         return json.dumps(data)
     if (jsn['u'] == '' or jsn['p'] == ''):
-        data['CodigoError'] = 404
+        data['CodigoError'] = 400
         data['MensajeError'] = "Falta un parametro de entrada"
         data['timeStamp'] = str(datetime.datetime.now())
         return json.dumps(data)
@@ -71,7 +72,7 @@ def Autenticar(usr, pas):
 
 def Generar_Token(usr, pas):
     token = Auth_JWT.Crear_Token(usr, pas)
-    time  = datetime.datetime.now()
+    time  = Auth_JWT.Expiracion(token)
     return  token, time
 
 

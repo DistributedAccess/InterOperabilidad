@@ -110,9 +110,9 @@ def Query_Insert(dto):
         columns  +=  lst
         if(getattr(dto, lst) == ""):
             values += "NULL"
-        elif(getattr(dto, lst) == "True"):
+        elif(str(getattr(dto, lst)).lower() == "true"):
             values += "TRUE"
-        elif(getattr(dto, lst) == "False"):
+        elif(str(getattr(dto, lst)).lower() == "false"):
             values += "FALSE"
         elif(getattr(dto, lst).isdigit()):
             values += getattr(dto, lst)
