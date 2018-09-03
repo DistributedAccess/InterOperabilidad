@@ -6,6 +6,7 @@ from Infrastructure.Logging import Logging
 from Data_Layer.DTO.usuario import Usuario
 from Data_Layer.DTO.Horario import Horario
 from Data_Layer.DTO.Usuario_Horario import Usuario_Horario
+from Interop_ZipRegistrar import Interop_ZipRegistrar
 import json
 
 class Interop_Registrar:
@@ -22,11 +23,43 @@ class Interop_Registrar:
 
     @staticmethod
     def Registrar_Usuarios(json):
+
+        #   Se valida y se descomprime el zip
+        lstOks = Interop_ZipRegistrar.ZipRegistrar(json)
+
+        #   Se registra en Base de Datos
         Registrar_Usuarios_con_Horarios(json)
+
+        #   Se genera y se retorna una Respuesta
         return("OK")
 
-def Respuesta():
-    pass
+def Respuesta(lstOks):
+
+    data = {}
+    data['timeStamp'] = str(datetime.datetime.now())
+
+    for usr in lstOks:
+        u = Respuesta_Usr(usr)
+
+    user = {}
+
+    data['Mensaje'] = str(datetime.datetime.now())
+    return json.dumps(data)
+
+def Respuesta_Usr(usr):
+
+    user = {}
+
+    if(usr[1] == True):
+        user['Usuario'] = usr[0]
+        user['CodigoError'] = "201"
+        user['Mensaje'] = "Usuario Registrado"
+    else:
+        user['Usuario'] = usr[0]
+        user['CodigoError'] = "404"
+        user['Mensaje'] = "No se regisro al usuario"
+
+    return user
 
 def Registrar_Usuarios_con_Horarios(users):
 
