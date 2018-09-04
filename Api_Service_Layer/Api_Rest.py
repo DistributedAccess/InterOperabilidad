@@ -23,11 +23,8 @@ def Registrar():
     token = token.replace('Bearer ','')
 
     #@Auth_JWT.Validar_Token(token)
-    Interop_Registrar.Registrar_Usuarios(request.json)
+    return Interop_Registrar.Registrar_Usuarios(request.json)
 
-
-
-    return "Holi amor your token is: " + token + " isn't it???"
 
 @app.route('/Interoperabilidad/Consultar', methods=['GET'])
 def Id_Usuario():

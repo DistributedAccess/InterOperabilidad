@@ -1,3 +1,4 @@
+from Business_Layer.Business_Api.Interop_ZipRegistrar import Interop_ZipRegistrar
 import sys
 sys.path.append("../..")
 from Data_Layer.Interop_CRUDS import Interop_CRUDS
@@ -6,8 +7,8 @@ from Infrastructure.Logging import Logging
 from Data_Layer.DTO.usuario import Usuario
 from Data_Layer.DTO.Horario import Horario
 from Data_Layer.DTO.Usuario_Horario import Usuario_Horario
-from Interop_ZipRegistrar import Interop_ZipRegistrar
 import json
+import datetime
 
 class Interop_Registrar:
     """     Esta clase es la encargada de hacer todo la logica de negocio
@@ -26,22 +27,23 @@ class Interop_Registrar:
 
         #   Se valida y se descomprime el zip
         lstOks = Interop_ZipRegistrar.ZipRegistrar(json)
-
+        print(lstOks)
         #   Se registra en Base de Datos
         Registrar_Usuarios_con_Horarios(json)
 
         #   Se genera y se retorna una Respuesta
-        return("OK")
+        return Respuesta(lstOks)
 
 def Respuesta(lstOks):
 
     data = {}
     data['timeStamp'] = str(datetime.datetime.now())
 
+    user = []
     for usr in lstOks:
-        u = Respuesta_Usr(usr)
+        user.append(Respuesta_Usr(usr))
 
-    user = {}
+    data['trackingIds'] = user
 
     data['Mensaje'] = str(datetime.datetime.now())
     return json.dumps(data)

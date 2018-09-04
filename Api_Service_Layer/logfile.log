@@ -1,484 +1,285 @@
-2018-09-01 16:49:59,865 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:49:59,916 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:49:59,917 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:50:59,062 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:50:59,063 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:50:59,063 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:52:32,699 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:52:32,700 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:52:32,700 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:53:43,825 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:53:43,826 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:53:43,826 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:53:56,274 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:53:56,275 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:53:56,275 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:53:58,289 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:53:58,290 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:53:58,290 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:55:48,696 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:55:48,697 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:55:48,697 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:57:06,942 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:57:06,943 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:57:06,943 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:57:38,624 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:57:38,625 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 16:57:38,625 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 16:59:17,885 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 16:59:17,910 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:03:01,348 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:03:01,349 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:03:23,974 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:03:23,975 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:04:22,664 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:04:22,665 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:05:45,750 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:05:45,752 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:05:56,756 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:05:56,757 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:06:14,213 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:06:14,215 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:08:21,412 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:08:21,412 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:47:07,688 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:47:07,689 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:47:59,970 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:47:59,972 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:49:29,153 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:49:29,154 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:50:42,258 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:50:42,259 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:50:47,333 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:50:47,335 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:50:53,158 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:50:53,159 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:51:09,883 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:51:09,884 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:51:22,864 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:51:22,866 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:52:28,847 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:52:28,848 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:52:45,308 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:52:45,309 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:53:17,993 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:53:17,994 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:53:37,338 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:53:37,340 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:54:45,085 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:54:45,086 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:55:19,108 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:55:19,109 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:55:37,312 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:55:37,313 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:56:12,792 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:56:12,793 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:56:47,198 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:56:47,199 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:57:22,611 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:57:22,612 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:58:20,134 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:58:20,136 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:59:03,341 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:59:03,342 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:59:37,281 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:59:37,282 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 17:59:46,764 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 17:59:46,765 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:00:05,009 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:00:05,010 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:00:22,025 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:00:22,026 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:00:56,805 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:00:56,806 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:01:18,307 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:01:18,310 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:06:00,276 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:06:00,277 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:06:48,275 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:06:48,276 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:06:51,187 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:06:51,189 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:06:52,685 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:06:52,687 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:06:55,744 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:06:55,745 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:06:57,025 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:06:57,026 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:06:58,358 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:06:58,359 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:07:01,078 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:07:01,079 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:07:02,436 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:07:02,437 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:09:54,194 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:09:54,195 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:10:00,055 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:10:00,056 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:10:04,638 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:10:04,639 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:10:09,494 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:10:09,495 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:10:14,031 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:10:14,032 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:11:10,123 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:11:10,126 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:11:37,528 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:11:37,529 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:12:27,902 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:12:27,903 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:12:31,852 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:12:31,853 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:13:24,373 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:13:24,375 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:14:01,135 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:14:01,136 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:14:26,478 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:14:26,479 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:16:11,137 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:16:11,138 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:16:58,365 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:16:58,366 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:17:52,299 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:17:52,301 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:18:59,775 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:18:59,776 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:19:43,627 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:19:43,627 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:20:25,632 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:20:25,633 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:20:59,921 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:20:59,922 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:21:31,509 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:21:31,510 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:21:39,534 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:21:39,535 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:21:45,602 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:21:45,603 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:23:41,838 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:23:41,839 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:23:49,158 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:23:49,159 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:23:52,772 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:23:52,773 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:23:55,836 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:23:55,837 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:25:07,009 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:25:07,010 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:25:09,839 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:25:09,840 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:25:12,380 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:25:12,381 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:25:14,346 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:25:14,347 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:26:53,795 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:26:53,797 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:27:32,774 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:27:32,776 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:27:47,507 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:27:47,508 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:28:03,427 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:28:03,428 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:28:54,811 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:28:54,812 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:32:18,779 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:32:18,780 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:33:53,205 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:33:53,207 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:33:57,089 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:33:57,090 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:34:12,628 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:34:12,629 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:43:01,554 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:43:01,555 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 18:43:11,250 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 18:43:11,251 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:06:56,534 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:06:56,571 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:20:42,005 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:20:42,006 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:20:45,462 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:20:45,463 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:21:00,792 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:21:00,795 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:21:25,451 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:21:25,452 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:21:48,644 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:21:48,645 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:23:18,043 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:23:18,044 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:24:33,138 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:24:33,139 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:24:37,136 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:24:37,137 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:25:13,218 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:25:13,219 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:25:31,221 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:25:31,222 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:26:25,085 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:26:25,087 - sLogger - DEBUG - No se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:26:32,981 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:26:32,982 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 20:26:37,099 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 20:26:37,100 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:03:18,010 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:03:18,011 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:03:54,361 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:03:54,363 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:04:27,602 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:04:27,603 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:04:52,114 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:04:52,115 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:05:16,406 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:05:16,406 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:05:45,791 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:05:45,792 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:06:45,899 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:06:45,900 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:07:49,793 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:07:49,794 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:08:34,513 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:08:34,514 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:08:46,760 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:08:46,761 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:08:48,729 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:08:48,730 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:08:57,497 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:08:57,498 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:08:58,670 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:08:58,672 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:00,447 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:00,447 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:02,070 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:02,071 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:05,196 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:05,197 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:06,334 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:06,335 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:08,844 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:08,845 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:10,381 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:10,383 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:11,673 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:11,674 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:14,203 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:14,204 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:15,268 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:15,269 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:17,832 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:17,833 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:09:36,752 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:09:36,753 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:10:18,167 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:10:18,168 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:12:58,947 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:12:58,948 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:15:27,911 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:15:27,912 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:16:02,442 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:16:02,443 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:16:17,338 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:16:17,339 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:17:53,331 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:17:53,333 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:23:00,412 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:23:00,413 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:23:57,482 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:23:57,483 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:24:18,845 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:24:18,846 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:25:53,015 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:25:53,016 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:28:19,161 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:28:19,162 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:28:56,692 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:28:56,693 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:28:58,835 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:28:58,837 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:29:01,669 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:29:01,671 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:29:06,121 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:29:06,122 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:29:08,366 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:29:08,367 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:29:24,050 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:29:24,051 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:34:55,818 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:34:55,819 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:51:04,250 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:51:04,251 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 21:51:08,395 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 21:51:08,396 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 22:08:34,578 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 22:08:34,585 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 22:44:45,304 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 22:44:45,305 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-01 23:07:02,576 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:07:02,820 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:07:02,823 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:07:02,857 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:07:02,857 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:07:02,859 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:07:02,909 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:07:02,911 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:07:02,998 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:08:52,381 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:08:52,444 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:08:52,446 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:08:52,447 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:08:52,448 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:08:52,450 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:08:52,451 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:08:52,452 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:08:52,454 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:08:52,455 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:08:52,455 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:12:03,557 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:12:03,632 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:12:03,635 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:12:03,688 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:12:03,690 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:12:03,788 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:12:03,790 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:12:03,900 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:15:05,898 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:15:05,905 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:15:05,905 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:15:05,907 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:15:05,908 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:15:05,908 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:15:05,911 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:15:05,913 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:15:05,913 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:15:05,917 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:15:05,919 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:15:05,919 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:16:05,361 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,361 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,362 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,362 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:16:05,364 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,364 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:16:05,365 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,366 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,366 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:16:05,367 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,368 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,368 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:16:05,370 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,372 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,373 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:16:05,376 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,377 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,378 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:16:05,379 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,380 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:16:05,380 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,381 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:16:05,381 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:16:05,382 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:18:00,735 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:00,736 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:00,736 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:18:00,738 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:00,739 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:00,740 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:18:00,742 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:00,743 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:00,743 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:18:00,746 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:00,746 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:00,747 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:18:00,748 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:00,749 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:00,749 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:18:00,751 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:00,752 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:00,752 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:18:00,757 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:00,757 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:00,758 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:18:48,743 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:48,808 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:18:48,809 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:48,852 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:18:48,854 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:48,953 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:18:48,955 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:49,008 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:18:49,010 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:49,011 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:49,011 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:18:49,013 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:49,014 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:49,014 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:18:49,016 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:18:49,017 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:18:49,017 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:34:55,878 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:34:55,879 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:34:55,879 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:34:55,881 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:34:55,882 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:34:55,882 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:34:55,883 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:34:55,884 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:34:55,885 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:34:55,887 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:34:55,888 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:34:55,888 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:34:55,889 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:34:55,950 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:34:55,952 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:34:55,995 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:34:55,997 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:34:56,150 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:35:22,233 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:35:22,234 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:35:22,234 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:35:22,236 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:35:22,236 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:35:22,237 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:35:22,238 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:35:22,239 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:35:22,239 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:35:22,241 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:35:22,242 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:35:22,242 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:35:22,244 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:35:22,601 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:35:22,603 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:35:22,690 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:35:22,692 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:35:22,735 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:37:23,214 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:37:23,289 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:37:23,291 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:37:23,344 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:37:23,347 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:37:23,456 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:37:23,458 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:37:23,545 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
-2018-09-01 23:37:23,547 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:37:23,601 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:37:23,603 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:37:23,700 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:37:23,702 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:37:23,801 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:39:12,827 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:39:12,884 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
-2018-09-01 23:39:12,894 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:39:12,896 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:39:12,896 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:39:12,898 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:39:12,899 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:39:12,899 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:39:12,901 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:39:12,902 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-01 23:39:12,902 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-01 23:39:12,904 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:39:12,950 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:39:12,953 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:39:13,006 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-01 23:39:13,008 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-01 23:39:13,062 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:19:32,425 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:19:32,427 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-09-03 21:25:39,774 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:27:43,092 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:28:21,780 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:28:21,780 - sLogger - ERROR - No se pudo descomprimir: /home/parzival/BuzonSftp
+2018-09-03 21:28:21,781 - sLogger - ERROR - [Errno 2] No such file or directory: '/home/parzival/BuzonSftp'
+2018-09-03 21:29:29,914 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:29:29,915 - sLogger - ERROR - No se pudo descomprimir: /home/parzival/BuzonSftp
+2018-09-03 21:29:29,915 - sLogger - ERROR - [Errno 2] No such file or directory: '/home/parzival/BuzonSftp'
+2018-09-03 21:35:24,165 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:35:24,482 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:35:24,483 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:36:46,015 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:36:46,348 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:36:46,349 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:36:46,361 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:36:46,431 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:36:46,432 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:36:46,434 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:36:46,474 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:36:46,474 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:36:46,476 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:36:46,477 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:36:46,477 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:36:46,479 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:36:46,480 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:36:46,480 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:36:46,483 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:36:46,615 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:36:46,617 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:36:46,704 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:36:46,706 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:36:46,804 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:37:39,210 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:37:39,526 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:37:39,527 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:37:39,539 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:37:39,540 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:37:39,540 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:37:39,542 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:37:39,543 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:37:39,544 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:37:39,546 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:37:39,547 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:37:39,547 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:37:39,550 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:37:39,551 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:37:39,551 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:37:39,552 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:37:39,868 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:37:39,870 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:37:39,980 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:37:39,982 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:37:40,024 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:39:12,075 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:39:12,419 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:39:12,419 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:39:12,432 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:39:12,433 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:39:12,433 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:39:12,435 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:39:12,436 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:39:12,436 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:39:12,438 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:39:12,439 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:39:12,439 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:39:12,441 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:39:12,441 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:39:12,442 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:39:12,443 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:39:12,540 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:39:12,542 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:39:12,595 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:39:12,597 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:39:12,706 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:41:22,215 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:41:22,559 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:41:22,560 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:41:22,572 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:41:22,573 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:41:22,574 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:41:22,576 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:41:22,577 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:41:22,577 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:41:22,579 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:41:22,579 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:41:22,580 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:41:22,581 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:41:22,582 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:41:22,583 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:41:22,585 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:41:22,690 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:41:22,692 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:41:22,734 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:41:22,736 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:41:22,779 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:42:18,333 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:42:18,662 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:42:18,663 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:42:18,675 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:42:18,676 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:42:18,677 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:42:18,679 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:42:18,680 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:42:18,680 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:42:18,682 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:42:18,683 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:42:18,684 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:42:18,686 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:42:18,686 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:42:18,687 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:42:18,688 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:42:18,738 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:42:18,740 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:42:18,782 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:42:18,784 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:42:18,827 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:43:01,507 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:43:01,851 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:43:01,851 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:43:01,853 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:43:01,854 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:43:01,854 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:43:01,856 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:43:01,857 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:43:01,857 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:43:01,859 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:43:01,859 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:43:01,860 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:43:01,861 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:43:01,861 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:43:01,862 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:43:01,864 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:43:02,116 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:43:02,118 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:43:02,172 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:43:02,174 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:43:02,227 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:44:30,074 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:44:30,455 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:44:30,456 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:44:30,479 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:44:30,480 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:44:30,480 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:44:30,482 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:44:30,483 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:44:30,483 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:44:30,485 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:44:30,486 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:44:30,486 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:44:30,490 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:44:30,491 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:44:30,491 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:44:30,493 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:44:30,691 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:44:30,693 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:44:30,858 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:44:30,860 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:44:30,914 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:45:03,966 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:45:04,311 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:45:04,311 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:45:04,313 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:45:04,313 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:45:04,314 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:45:04,315 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:45:04,315 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:45:04,316 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:45:04,317 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:45:04,318 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:45:04,318 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:45:04,320 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:45:04,320 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:45:04,321 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:45:04,322 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:45:04,423 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:45:04,425 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:45:04,512 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:45:04,513 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:45:04,702 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:46:09,416 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:46:09,747 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:46:09,748 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:46:09,760 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:46:09,761 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:46:09,761 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:46:09,763 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:46:09,764 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:46:09,765 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:46:09,766 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:46:09,767 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:46:09,767 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:46:09,769 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:46:09,770 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:46:09,770 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:46:09,772 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:46:10,008 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:46:10,010 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:46:10,053 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:46:10,055 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:46:10,097 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:47:13,750 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:47:14,084 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:47:14,084 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:47:14,096 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:47:14,098 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:47:14,098 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:47:14,100 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:47:14,101 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:47:14,101 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:47:14,103 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:47:14,103 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:47:14,104 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:47:14,105 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:47:14,106 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:47:14,106 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:47:14,108 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:47:14,207 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:47:14,209 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:47:14,363 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:47:14,365 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:47:14,408 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:48:54,302 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:48:54,654 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:48:54,654 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:48:54,667 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:48:54,749 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:48:54,751 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:48:54,752 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:48:54,752 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:48:54,754 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:48:54,755 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:48:54,755 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:48:54,756 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:48:54,757 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:48:54,757 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:48:54,759 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:48:54,816 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:48:54,817 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:48:55,005 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:48:55,007 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:48:55,060 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:50:38,784 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:50:39,102 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:50:39,102 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:50:39,114 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:50:39,115 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:50:39,115 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:50:39,117 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:50:39,118 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:50:39,118 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:50:39,120 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:50:39,121 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:50:39,121 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:50:39,122 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:50:39,123 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:50:39,124 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:50:39,125 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:50:39,369 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:50:39,371 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:50:39,447 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:50:39,449 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:50:39,492 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:51:23,582 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:51:23,925 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
+2018-09-03 21:51:23,926 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
+2018-09-03 21:51:23,927 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:51:23,928 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:51:23,928 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-09-03 21:51:23,930 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:51:23,931 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:51:23,931 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:51:23,933 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:51:23,934 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:51:23,934 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:51:23,935 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:51:23,936 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-09-03 21:51:23,936 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-09-03 21:51:23,938 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:51:24,258 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:51:24,260 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:51:24,314 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-09-03 21:51:24,316 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-09-03 21:51:24,369 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
