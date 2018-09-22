@@ -27,7 +27,7 @@ class Interop_Registrar:
 
         #   Se valida y se descomprime el zip
         lstOks = Interop_ZipRegistrar.ZipRegistrar(json)
-        print(lstOks)
+
         #   Se registra en Base de Datos
         Registrar_Usuarios_con_Horarios(json)
 
@@ -40,6 +40,7 @@ def Respuesta(lstOks):
     data['timeStamp'] = str(datetime.datetime.now())
 
     user = []
+
     for usr in lstOks:
         user.append(Respuesta_Usr(usr))
 
