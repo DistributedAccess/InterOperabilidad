@@ -8,7 +8,7 @@ class Logging:
     logger = None
 
     def __init__(self):
-        logging.config.fileConfig('/home/parzival/Documents/Tesis/API/InterOperabilidad_API/config.ini')
+        logging.config.fileConfig('/home/pi/InterOperabilidad/config.ini')
         self.logger = logging.getLogger('sLogger')
 
     def debug(self, deb):
