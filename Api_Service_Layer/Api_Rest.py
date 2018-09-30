@@ -45,7 +45,7 @@ def fooq():
     return json.dumps(request.json)
 
 def Ip_Host():
-    Ip = commands.getoutput("hostname -I")
+    Ip = subprocess.getoutput("hostname -I")
     Espacio = Ip.find(" ")
     Ip = Ip[0:Espacio]
     return Ip
