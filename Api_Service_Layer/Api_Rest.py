@@ -44,12 +44,11 @@ def fooq():
 
     return json.dumps(request.json)
 
+def Ip_Host():
+    Ip = commands.getoutput("hostname -I")
+    Espacio = Ip.find(" ")
+    Ip = Ip[0:Espacio]
+    return Ip
 
 if __name__ == '__main__':
     app.run(host = Ip_Host(), port=5000, debug=True)
-
-def Ip_Host():
-        Ip = commands.getoutput("hostname -I")
-        Espacio = Ip.find(" ")
-        Ip = Ip[0:Espacio]
-        return Ip
