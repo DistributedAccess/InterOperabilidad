@@ -5,6 +5,7 @@ from argparse import Namespace
 from Business_Layer.Business_Api.Interop_Login import *
 from Business_Layer.Business_Api.Interop_Registrar import *
 from Infrastructure.Auth_JWT import Auth_JWT
+import commads
 import json
 
 app = Flask(__name__)
@@ -45,4 +46,10 @@ def fooq():
 
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=5000, debug=True)
+    app.run(host = Ip_Host(), port=5000, debug=True)
+
+def Ip_Host():
+        Ip = commands.getoutput("hostname -I")
+        Espacio = Ip.find(" ")
+        Ip = Ip[0:Espacio]
+        return Ip

@@ -67,7 +67,6 @@ import MySQLdb
 """
 
 class Interop_Create_DB:
-350
     __user      = None
     __password  = None
     __host      = None
@@ -143,7 +142,7 @@ class Interop_Create_DB:
 
         try:
             QUERY = ("""CREATE TABLE IF NOT EXISTS Horario (
-                    Id_HorariUsuario_Servidoro int(10) NOT NULL,
+                    Id_Horario int(10) NOT NULL,
                     Turno varchar(25) NOT NULL,
                     Inicio time NOT NULL,
                     Fin time NOT NULL,
@@ -155,9 +154,7 @@ class Interop_Create_DB:
             self.__logg.debug("Se ha creado la Tabla: Horario en la base de datos InterOperabilidad")
 
         except  MySQLdb.DatabaseError:
-            self.__logg.errId_UsrServ | int(10)     | NO   | PRI | NULL    |       |
-      | User_Name  | varchar(50) | NO   |     | NULL    |       |
-      | User_Pass  | varchar(MAX)| NO   |     | NULL or("No se ha podido crear la Tabla: Horario")
+            self.__logg.error("No se ha podido crear la Tabla: Horario")
 
     def Create_Bitacora(self):
         #   Este metodo crea la tabla: Bitacora
