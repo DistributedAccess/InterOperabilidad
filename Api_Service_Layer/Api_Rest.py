@@ -5,7 +5,7 @@ from argparse import Namespace
 from Business_Layer.Business_Api.Interop_Login import *
 from Business_Layer.Business_Api.Interop_Registrar import *
 from Infrastructure.Auth_JWT import Auth_JWT
-import commads
+import subprocess
 import json
 
 app = Flask(__name__)
