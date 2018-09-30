@@ -94,7 +94,7 @@ class Interop_Create_DB:
 
     def Create_DataBase(self):
         #   Este metodo crea la Base de Datos InterOperabilidad.
-        try:Usuario_Servidor
+        try:
             sql = "CREATE DATABASE IF NOT EXISTS InterOperabilidad"
             self.__cursor.execute(sql)
             self.__logg.debug("Se ha creado la Base de Datos: Interoperabilidad")
