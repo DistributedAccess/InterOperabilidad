@@ -9,6 +9,10 @@ from Interop_Create_DB import Interop_Create_DB
         tablas, ademas de ingresar el usuario de configuracion...
 """
 
+cnf     = Config()
+config  = cnf.conf()
+logg    = Logging()
+
 user   = config['MySql']['User']
 passwd = config['MySql']['Password']
 host   = config['MySql']['Host']
