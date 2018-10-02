@@ -60,7 +60,7 @@ def Respuesta_Usr(usr):
     else:
         user['Usuario'] = usr[0]
         user['CodigoError'] = "404"
-        user['Mensaje'] = "No se regisro al usuario"
+        user['Mensaje'] = "No se registro al usuario"
 
     return user
 

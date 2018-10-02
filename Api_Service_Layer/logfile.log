@@ -1,285 +1,111 @@
-2018-09-03 21:19:32,425 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:19:32,427 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
-2018-09-03 21:25:39,774 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:27:43,092 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:28:21,780 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:28:21,780 - sLogger - ERROR - No se pudo descomprimir: /home/parzival/BuzonSftp
-2018-09-03 21:28:21,781 - sLogger - ERROR - [Errno 2] No such file or directory: '/home/parzival/BuzonSftp'
-2018-09-03 21:29:29,914 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:29:29,915 - sLogger - ERROR - No se pudo descomprimir: /home/parzival/BuzonSftp
-2018-09-03 21:29:29,915 - sLogger - ERROR - [Errno 2] No such file or directory: '/home/parzival/BuzonSftp'
-2018-09-03 21:35:24,165 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:35:24,482 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:35:24,483 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:36:46,015 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:36:46,348 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:36:46,349 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:36:46,361 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:36:46,431 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:36:46,432 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:36:46,434 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:36:46,474 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:36:46,474 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:36:46,476 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:36:46,477 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:36:46,477 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:36:46,479 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:36:46,480 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:36:46,480 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:36:46,483 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:36:46,615 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:36:46,617 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:36:46,704 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:36:46,706 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:36:46,804 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:37:39,210 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:37:39,526 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:37:39,527 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:37:39,539 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:37:39,540 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:37:39,540 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:37:39,542 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:37:39,543 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:37:39,544 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:37:39,546 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:37:39,547 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:37:39,547 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:37:39,550 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:37:39,551 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:37:39,551 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:37:39,552 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:37:39,868 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:37:39,870 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:37:39,980 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:37:39,982 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:37:40,024 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:39:12,075 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:39:12,419 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:39:12,419 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:39:12,432 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:39:12,433 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:39:12,433 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:39:12,435 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:39:12,436 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:39:12,436 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:39:12,438 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:39:12,439 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:39:12,439 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:39:12,441 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:39:12,441 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:39:12,442 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:39:12,443 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:39:12,540 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:39:12,542 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:39:12,595 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:39:12,597 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:39:12,706 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:41:22,215 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:41:22,559 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:41:22,560 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:41:22,572 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:41:22,573 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:41:22,574 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:41:22,576 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:41:22,577 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:41:22,577 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:41:22,579 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:41:22,579 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:41:22,580 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:41:22,581 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:41:22,582 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:41:22,583 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:41:22,585 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:41:22,690 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:41:22,692 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:41:22,734 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:41:22,736 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:41:22,779 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:42:18,333 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:42:18,662 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:42:18,663 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:42:18,675 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:42:18,676 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:42:18,677 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:42:18,679 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:42:18,680 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:42:18,680 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:42:18,682 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:42:18,683 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:42:18,684 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:42:18,686 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:42:18,686 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:42:18,687 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:42:18,688 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:42:18,738 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:42:18,740 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:42:18,782 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:42:18,784 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:42:18,827 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:43:01,507 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:43:01,851 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:43:01,851 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:43:01,853 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:43:01,854 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:43:01,854 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:43:01,856 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:43:01,857 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:43:01,857 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:43:01,859 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:43:01,859 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:43:01,860 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:43:01,861 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:43:01,861 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:43:01,862 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:43:01,864 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:43:02,116 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:43:02,118 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:43:02,172 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:43:02,174 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:43:02,227 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:44:30,074 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:44:30,455 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:44:30,456 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:44:30,479 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:44:30,480 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:44:30,480 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:44:30,482 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:44:30,483 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:44:30,483 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:44:30,485 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:44:30,486 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:44:30,486 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:44:30,490 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:44:30,491 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:44:30,491 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:44:30,493 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:44:30,691 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:44:30,693 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:44:30,858 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:44:30,860 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:44:30,914 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:45:03,966 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:45:04,311 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:45:04,311 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:45:04,313 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:45:04,313 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:45:04,314 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:45:04,315 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:45:04,315 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:45:04,316 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:45:04,317 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:45:04,318 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:45:04,318 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:45:04,320 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:45:04,320 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:45:04,321 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:45:04,322 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:45:04,423 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:45:04,425 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:45:04,512 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:45:04,513 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:45:04,702 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:46:09,416 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:46:09,747 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:46:09,748 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:46:09,760 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:46:09,761 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:46:09,761 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:46:09,763 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:46:09,764 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:46:09,765 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:46:09,766 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:46:09,767 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:46:09,767 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:46:09,769 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:46:09,770 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:46:09,770 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:46:09,772 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:46:10,008 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:46:10,010 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:46:10,053 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:46:10,055 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:46:10,097 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:47:13,750 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:47:14,084 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:47:14,084 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:47:14,096 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:47:14,098 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:47:14,098 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:47:14,100 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:47:14,101 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:47:14,101 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:47:14,103 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:47:14,103 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:47:14,104 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:47:14,105 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:47:14,106 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:47:14,106 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:47:14,108 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:47:14,207 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:47:14,209 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:47:14,363 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:47:14,365 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:47:14,408 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:48:54,302 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:48:54,654 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:48:54,654 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:48:54,667 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:48:54,749 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:48:54,751 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:48:54,752 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:48:54,752 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:48:54,754 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:48:54,755 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:48:54,755 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:48:54,756 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:48:54,757 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:48:54,757 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:48:54,759 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:48:54,816 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:48:54,817 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:48:55,005 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:48:55,007 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:48:55,060 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:50:38,784 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:50:39,102 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:50:39,102 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:50:39,114 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:50:39,115 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:50:39,115 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:50:39,117 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:50:39,118 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:50:39,118 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:50:39,120 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:50:39,121 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:50:39,121 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:50:39,122 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:50:39,123 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:50:39,124 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:50:39,125 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:50:39,369 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:50:39,371 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:50:39,447 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:50:39,449 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:50:39,492 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:51:23,582 - sLogger - INFO - Ya existe el Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:51:23,925 - sLogger - DEBUG - Se descomprimio el archivo: /home/parzival/BuzonSftp/ADMUNIGEN000_LABICECOMP001_660e3600-a45b-92f9-a716-446655440023.zip
-2018-09-03 21:51:23,926 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/parzival/FaceDataBase
-2018-09-03 21:51:23,927 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:51:23,928 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:51:23,928 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
-2018-09-03 21:51:23,930 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:51:23,931 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:51:23,931 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:51:23,933 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:51:23,934 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:51:23,934 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:51:23,935 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:51:23,936 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
-2018-09-03 21:51:23,936 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
-2018-09-03 21:51:23,938 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:51:24,258 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:51:24,260 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:51:24,314 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
-2018-09-03 21:51:24,316 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
-2018-09-03 21:51:24,369 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:00:26,438 - sLogger - DEBUG - Se procede a comparar en base...
+2018-10-01 22:00:26,439 - sLogger - INFO - Se procede a hacer la consulta: SELECT * FROM Usuario_Servidor WHERE User_Name = 'ADMUNIGEN000'
+2018-10-01 22:00:26,493 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:00:26,497 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Servidor
+2018-10-01 22:00:26,498 - sLogger - INFO - Credenciales autenticadas!!!
+2018-10-01 22:00:26,502 - sLogger - INFO - Se ha generado un token al usuario: ADMUNIGEN000
+2018-10-01 22:00:49,429 - sLogger - DEBUG - Se creo el Directorio: /home/pi/FaceDataBase
+2018-10-01 22:00:49,600 - sLogger - DEBUG - Se descomprimio el archivo: /home/pi/BuzonSftp/ADMUNIGEN000_LABICECOMP001_349620cb-125e-45be-ae89-d945ac63e696.zip
+2018-10-01 22:00:49,601 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/pi/FaceDataBase
+2018-10-01 22:00:49,602 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300617,'x','x')
+2018-10-01 22:00:49,607 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:00:49,631 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:03:08,259 - sLogger - INFO - Ya existe el Directorio: /home/pi/FaceDataBase
+2018-10-01 22:03:08,468 - sLogger - DEBUG - Se descomprimio el archivo: /home/pi/BuzonSftp/ADMUNIGEN000_LABICECOMP001_349620cb-125e-45be-ae89-d945ac63e696.zip
+2018-10-01 22:03:08,469 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/pi/FaceDataBase
+2018-10-01 22:03:08,471 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300617,'x','x')
+2018-10-01 22:03:08,529 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,533 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:08,534 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:03:08,536 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','08:30:00',110001,'07:00:00','Matutino')
+2018-10-01 22:03:08,542 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,563 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
+2018-10-01 22:03:08,564 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110001,2013300617)
+2018-10-01 22:03:08,569 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,581 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:03:08,582 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300618,'x','x')
+2018-10-01 22:03:08,588 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,599 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:03:08,600 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','11:30:00',110201,'10:00:00','Matutino')
+2018-10-01 22:03:08,608 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,619 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
+2018-10-01 22:03:08,620 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110201,2013300618)
+2018-10-01 22:03:08,628 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,639 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:03:08,642 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300619,'x','x')
+2018-10-01 22:03:08,649 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,664 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:03:08,665 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','08:30:00',110001,'07:00:00','Matutino')
+2018-10-01 22:03:08,670 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,673 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:08,674 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-10-01 22:03:08,676 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110001,2013300619)
+2018-10-01 22:03:08,681 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:08,692 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:03:57,161 - sLogger - INFO - Ya existe el Directorio: /home/pi/FaceDataBase
+2018-10-01 22:03:57,360 - sLogger - DEBUG - Se descomprimio el archivo: /home/pi/BuzonSftp/ADMUNIGEN000_LABICECOMP001_349620cb-125e-45be-ae89-d945ac63e696.zip
+2018-10-01 22:03:57,361 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/pi/FaceDataBase
+2018-10-01 22:03:57,362 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300617,'x','x')
+2018-10-01 22:03:57,367 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,370 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:57,371 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:03:57,372 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','08:30:00',110001,'07:00:00','Matutino')
+2018-10-01 22:03:57,378 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,381 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:57,382 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-10-01 22:03:57,383 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110001,2013300617)
+2018-10-01 22:03:57,388 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,418 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:03:57,419 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300618,'x','x')
+2018-10-01 22:03:57,424 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,428 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:57,429 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:03:57,432 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','11:30:00',110201,'10:00:00','Matutino')
+2018-10-01 22:03:57,438 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,441 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:57,442 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-10-01 22:03:57,444 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110201,2013300618)
+2018-10-01 22:03:57,450 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,462 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:03:57,464 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300619,'x','x')
+2018-10-01 22:03:57,469 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,472 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:57,474 - sLogger - ERROR - No se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:03:57,475 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','08:30:00',110001,'07:00:00','Matutino')
+2018-10-01 22:03:57,483 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,486 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:03:57,487 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-10-01 22:03:57,489 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110001,2013300619)
+2018-10-01 22:03:57,494 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:03:57,505 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:07:37,365 - sLogger - INFO - Ya existe el Directorio: /home/pi/FaceDataBase
+2018-10-01 22:07:37,571 - sLogger - DEBUG - Se descomprimio el archivo: /home/pi/BuzonSftp/ADMUNIGEN000_LABICECOMP001_349620cb-125e-45be-ae89-d945ac63e696.zip
+2018-10-01 22:07:37,572 - sLogger - DEBUG - Se obtuvo una lista del Directorio: /home/pi/FaceDataBase
+2018-10-01 22:07:37,574 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300617,'x','x')
+2018-10-01 22:07:37,633 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,648 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:07:37,650 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','08:30:00',110001,'07:00:00','Matutino')
+2018-10-01 22:07:37,655 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,666 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
+2018-10-01 22:07:37,667 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110001,2013300617)
+2018-10-01 22:07:37,672 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,688 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:07:37,689 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300618,'x','x')
+2018-10-01 22:07:37,694 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,706 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:07:37,708 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','11:30:00',110201,'10:00:00','Matutino')
+2018-10-01 22:07:37,714 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,734 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Horario
+2018-10-01 22:07:37,736 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110201,2013300618)
+2018-10-01 22:07:37,742 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,758 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario
+2018-10-01 22:07:37,760 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario (Activo,Apellido_M,Apellido_P,Id_Usuario,Nombre,Tipo_Usr) VALUES (TRUE,'x','x',2013300619,'x','x')
+2018-10-01 22:07:37,767 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,777 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario
+2018-10-01 22:07:37,779 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Horario (Dia,Fin,Id_Horario,Inicio,Turno) VALUES ('Lunes','08:30:00',110001,'07:00:00','Matutino')
+2018-10-01 22:07:37,785 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,789 - sLogger - ERROR - No se ha podido conectar a la de base de datos: InterOperabilidad
+2018-10-01 22:07:37,790 - sLogger - ERROR - No se ha registrado un registro a la tabla: Horario
+2018-10-01 22:07:37,792 - sLogger - INFO - Se procede a hacer la consulta: INSERT INTO Usuario_Horario (Id_Horario,Id_Usuario) VALUES (110001,2013300619)
+2018-10-01 22:07:37,798 - sLogger - DEBUG - Se ha establecido a la base de datos: InterOperabilidad
+2018-10-01 22:07:37,810 - sLogger - DEBUG - Se ha registrado un registro a la tabla: Usuario_Horario

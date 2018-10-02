@@ -19,6 +19,7 @@ class Interop_CRUDS:
     def Registrar(dto):
         columns, values = Query_Insert(dto)
         query = "INSERT INTO " + type(dto).__name__ +  columns + " VALUES " + values
+        logg.info("Se procede a hacer la consulta: " + query)
         if(Execute_Query(query)):
             logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)
         else:
@@ -28,6 +29,7 @@ class Interop_CRUDS:
     def Actualizar(dto, condicion, parametro):
         set = Query_Update(dto)
         query = "UPDATE " + type(dto).__name__ + " SET " + set + " WHERE " + condicion + " = " + "'" + parametro + "'"
+        logg.info("Se procede a hacer la consulta: " + query)
         if(Execute_Query(query)):
             logg.debug("Se ha actualizado un registro a la tabla: " + type(dto).__name__)
         else:
@@ -36,6 +38,7 @@ class Interop_CRUDS:
     @staticmethod
     def Consultar_Uno(dto, columna, condicion):
         query = "SELECT * FROM " + type(dto).__name__ + " WHERE " + columna +" = '" + condicion + "'"
+        logg.info("Se procede a hacer la consulta: " + query)
         consulta = Execute_Query_Consultar(query)
         if(len(consulta) != 0):
             logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)
@@ -46,6 +49,7 @@ class Interop_CRUDS:
     @staticmethod
     def Consultar_Todo(dto):
         query = "SELECT * FROM " + type(dto).__name__
+        logg.info("Se procede a hacer la consulta: " + query)
         consulta = Execute_Query_Consultar(query)
         if(len(consulta) != 0):
             logg.debug("Se ha registrado un registro a la tabla: " + type(dto).__name__)

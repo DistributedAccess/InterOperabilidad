@@ -51,4 +51,6 @@ def Ip_Host():
     return Ip
 
 if __name__ == '__main__':
-    app.run(host = Ip_Host(), port=5000, debug=True)
+    print(Ip_Host())
+    app.run(host = Ip_Host(), port=2018, debug=True)
+   

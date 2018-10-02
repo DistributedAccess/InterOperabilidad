@@ -8,7 +8,7 @@ class Horario:
     Fin:            str
     Dia:            str'''
     def __init__(self, Id_Horario, Turno, Inicio, Fin, Dia):
-        self.Id_Horario     =  Id_Usuario
+        self.Id_Horario     =  Id_Horario
         self.Turno          =  Turno
         self.Inicio         =  Inicio
         self.Fin            =  Fin

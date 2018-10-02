@@ -55,17 +55,20 @@ def Autenticar(usr, pas):
         pas y lo compara con la consulta en caso de ser igual retornara un true.
         def Autenticar(usr, pas):
     """
+    logg.debug("Se procede a comparar en base...")
     flag = True
 
     hash  = hashlib.sha256(str.encode(pas))
     consulta = Interop_CRUDS.Consultar_Uno(Usuario_Servidor(usr,pas), 'User_Name', usr)
-
     if(len(consulta) != 0):
-        if(hash.hexdigest() == consulta[0][2]):
+        if(hash.hexdigest() == consulta[0][2].lower()):
+            logg.info("Credenciales autenticadas!!!")
             flag = True
         else:
+            logg.info("Usuario no autenticado!")
             flag = False
     else:
+        logg.info("No hay usuarios en la base o hay un error en la base")
         flag = False
 
     return flag
@@ -73,6 +76,7 @@ def Autenticar(usr, pas):
 def Generar_Token(usr, pas):
     token = Auth_JWT.Crear_Token(usr, pas)
     time  = Auth_JWT.Expiracion(token)
+    logg.info("Se ha generado un token al usuario: " + usr)
     return  token, time
 
 
